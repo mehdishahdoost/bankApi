@@ -5,3 +5,4 @@
 * Java 17
 * SpringBoot
 * Kotlin
+* Gradle
